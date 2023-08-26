@@ -1,0 +1,6 @@
+ModIDS = {
+    [4397041914] = true, -- white cock exclusive
+
+}
+
+return ModIDS
